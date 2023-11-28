@@ -1,0 +1,16 @@
+aaa;50
+aaaa;25
+aaabatteries;50
+aaabattery;50
+aaabonds;60
+aaacell;50
+aaacells;50
+aaah;25
+aaamap;50
+aaamaps;50
+aaamember;50
+aaamembers;50
+aaarated;50
+aaarating;50
+aaas;50
+aaateams;50
